@@ -1,5 +1,5 @@
-Aerial by HTML5 UP
-html5up.net | @n33co
+#Aerial by HTML5 UP
+##html5up.net | @n33co
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
@@ -21,7 +21,7 @@ AJ
 n33.co @n33co dribbble.com/n33
 
 
-The Scrolling Background:
+###The Scrolling Background:
 
 	This relies entirely on CSS to do its thing, which is cool, but that makes
 	changing it a bit weird/tricky at first. You can still use pretty much any image
@@ -51,7 +51,7 @@ The Scrolling Background:
 		1500px wide.
 
 
-Credits:
+###Credits:
 
 	Background Image:
 		Ryan Schroeder via Unsplash (unsplash.com - CC0 licensed)
